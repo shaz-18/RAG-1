@@ -6,3 +6,4 @@ google-generativeai
 faiss-cpu
 python-dotenv
 docx2txt
+langchain-community 
