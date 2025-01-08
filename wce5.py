@@ -310,7 +310,7 @@ def home_page():
         </div>
         """, unsafe_allow_html=True)
 
-    st.image("wceimage.jpg", use_column_width=True)
+    st.image("wceimage.jpg", use_container_width=True)
 
     # Additional project description
     st.markdown("""
@@ -375,7 +375,7 @@ def main():
         st.session_state['page'] = 'Home'
 
     # Add logo to the sidebar
-    st.sidebar.image("download.jpeg", use_column_width=True)  # Adjust the path as necessary
+    st.sidebar.image("download.jpeg", use_container_width=True)  # Adjust the path as necessary
     st.sidebar.title("Navigation")
     
     if st.sidebar.button("Home"):
