@@ -68,3 +68,5 @@ This project is a document-based chatbot built using Streamlit, LangChain, FAISS
 5. **Query Processing:** User questions are embedded and compared against the stored vectors.
 6. **Answer Generation:** The closest vector matches are sent to the Google Generative AI for response generation.
 
+Above Project is created by refering relevant resources from youtube and as a part of a college Mini Project .
+
