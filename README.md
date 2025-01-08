@@ -70,3 +70,7 @@ This project is a document-based chatbot built using Streamlit, LangChain, FAISS
 
 Above Project is created by refering relevant resources from youtube and as a part of a college Mini Project .
 
+The project is Also deployed on StreamLit cloud - https://autobotnew.streamlit.app/ you can visit by clicking on the given link .
+
+ThankYou!!
+
